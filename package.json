@@ -1,0 +1,14 @@
+{
+  "name": "duccboxsock",
+  "version": "1.0.0",
+  "description": "DuccBOXjs Socket.io server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ducc",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.1.3"
+  }
+}
